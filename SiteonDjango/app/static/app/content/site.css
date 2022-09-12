@@ -1,6 +1,9 @@
 body {
-    padding-top: 300px;
-    padding-bottom: 300px;
+    background-image: url(misatosrsly.jpg);
+    background-color: rgb(128, 0, 255);
+    background-size: cover;
+    padding-top: 220px;
+    padding-bottom: 220px;
 }
 
 /* Set padding to keep content from hitting the edges */
